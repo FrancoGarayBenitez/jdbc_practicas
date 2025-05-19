@@ -49,6 +49,8 @@ CREATE TABLE usuario (
     nombre VARCHAR(50),
     email VARCHAR(100)
 );
+```
+---
 
 ✅ Funcionalidades implementadas
 
@@ -69,6 +71,8 @@ CREATE TABLE usuario (
         Formato de email
 
         Prevención de duplicados
+        
+---
 
 ⚙️ Dependencias clave
 
@@ -79,6 +83,8 @@ CREATE TABLE usuario (
     HikariCP (para gestión de conexiones eficiente)
 
     MySQL (como base de datos)
+
+---
 
 🚀 ¿A quién está dirigido este proyecto?
 
